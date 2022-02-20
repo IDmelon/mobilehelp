@@ -3,3 +3,7 @@
   .side-bar, .page-header { display: none; }
   .main-content { max-width: auto; margin: 1em;}
 }
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) {
+  .side-bar, .page-header { display: none; }
+}
