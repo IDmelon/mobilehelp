@@ -1,6 +1,6 @@
 ## How to pair a smartphone with a computer
 <p align="center">
-![Download Pairing Tool](/mobilehelp/assets/images/download-to-pc.png)
+  <img src="/mobilehelp/assets/images/download-to-pc.png"></img>
 </p>
 
 To pair your smartphone with a computer, you need the IDmelon Pairing Tool App on that computer.
