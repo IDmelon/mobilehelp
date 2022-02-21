@@ -6,7 +6,7 @@ Choose your status:
 
 [I already paired with my PC.](http://example.com/){: .btn .mr-4 }
 
-[I want to pair with my PC.](/mobileapp/en/pairing/step1.html){: .btn .mr-4 }
+[I want to pair with my PC.](/mobilehelp/en/pairing/step1.html){: .btn .mr-4 }
 
 [I have an IDmelon Reader.](http://example.com/){: .btn .mr-4 }
 
