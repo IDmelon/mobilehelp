@@ -1,4 +1,1 @@
-Help for IDmelon Mobile application
-
-<button type="button" name="button" class="btn">Button element</button>
-
+These pages are designed to be run by users occasionally when exploring the app.
