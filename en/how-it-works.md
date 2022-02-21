@@ -1,4 +1,4 @@
-# How it works?
+## How it works?
 
 To start using your smartphone as a security key on a computer, first you need to either pair your smartphone with that computer or have an IDmelon Reader.
 
