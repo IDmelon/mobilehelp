@@ -10,7 +10,7 @@ You can download the Pairing Tool App from the following link on the IDmelon web
 [![test](https://img.youtube.com/vi/qKSqwyebCos/0.jpg)](https://www.youtube.com/watch?v=qKSqwyebCos)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qKSqwyebCos" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="280" height="155" src="https://www.youtube.com/embed/qKSqwyebCos" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 [https://www.idmelon.com/download](https://www.idmelon.com/download)
