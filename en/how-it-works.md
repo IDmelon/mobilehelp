@@ -4,7 +4,7 @@ To start using your smartphone as a security key on a computer, first you need t
 
 Choose your status:
 
-[I already paired with my PC.](/mobilehelp/en/services.html){: .btn .mr-4 }
+[I already paired with my PC.](/services.html){: .btn .mr-4 }
 
 [I want to pair with my PC.](/mobilehelp/en/pairing/step1.html){: .btn .mr-4 }
 
