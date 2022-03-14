@@ -9,4 +9,4 @@ You can download the Pairing Tool App from the following link on the IDmelon web
 
 
 
-[Next](http://example.com/){: .btn .mr-4 }
+[Next](http:///mobilehelp/en/pairing/pairstep2.html){: .btn .mr-4 }
